@@ -1,0 +1,17 @@
+ENCFF682EOV_allseqs.nelsa.csv
+ENCFF682EOV_allseqs_random.nelsa.csv
+ENCFF682EOV_allseqs_shuff.nelsa.csv
+ENCFF682EOV_best5000.nelsa.csv
+ENCFF682EOV_best5000_random.nelsa.csv
+ENCFF682EOV_best5000_shuff.nelsa.csv
+kmers-stats_ENCFF682EOV_allseqs.csv
+kmers-stats_ENCFF682EOV_best5000.csv
+scores.best5000.re-extract.k4.csv
+scores.best5000.re-extract.simple-maximal.0.8.csv
+scores.best5000.shuffle.k5.csv
+scores.re-extract.k4.csv
+scores.re-extract.simple-maximal.0.8.csv
+scores.shuffle.k4.csv
+scores.shuffle.k5.csv
+ENCFF682EOV_best5000_shuff.fa
+ENCFF682EOV_allseqs_shuff.fa
