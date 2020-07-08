@@ -18,3 +18,13 @@ CTCF/ENCFF682EOV_allseqs_shuff.fa
 CTCF/ENCFF682EOV_best5000_random10.fa
 CTCF/ENCFF682EOV_best5000_random10.nelsa.csv
 CTCF/hg38.fa.gz
+*.csv
+ATF3/ENCFF000OXR_random.fa
+ATF3/ENCFF000OXR_random10.fa
+ATF3/ENCFF000OXR_shuff.fa
+ATF3/hg19.fa
+ATF3/hg19.fa.fai
+ATF3/hg19.fa.gz
+ATF3/ENCFF000OXR.fasta
+ATF3/ENCFF000OXR_random.bed
+ATF3/ENCFF000OXR.bed
